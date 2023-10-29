@@ -7,10 +7,12 @@
 int main() {
   std::cout << "Starting program..." << std::endl;
   ConcreteHandler1 concreteHandler1{};
+  ConcreteHandler1 concreteHandler11{};
   ConcreteHandler2 concreteHandler2{};
   ConcreteHandler3 concreteHandler3{};
 
   concreteHandler1.handle();
+  concreteHandler11.handle();
   concreteHandler2.handle();
   concreteHandler3.handle();
 

@@ -3,9 +3,9 @@
 #include <iostream>
 
 void ConcreteHandler2::handle() {
-  std::cout << "I am gonna count to 100" << std::endl;
+  std::cout << "I am gonna count to 200" << std::endl;
 
-  for (int i = 1; i <= 100; i++) {
+  for (int i = 1; i <= 200; i++) {
     std::cout << i << ",";
   }
   std::cout << std::endl;

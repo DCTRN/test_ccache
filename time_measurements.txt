@@ -1,5 +1,2 @@
-[1/5] Building CXX object CMakeFiles/profiling_test.dir/ConcreteHandler1.cpp.o
-[2/5] Building CXX object CMakeFiles/profiling_test.dir/main.cpp.o
-[3/5] Building CXX object CMakeFiles/profiling_test.dir/ConcreteHandler2.cpp.o
-[4/5] Building CXX object CMakeFiles/profiling_test.dir/ConcreteHandler3.cpp.o
-[5/5] Linking CXX executable profiling_test
+[1/2] Building CXX object CMakeFiles/profiling_test.dir/ConcreteHandler1.cpp.o
+[2/2] Linking CXX executable profiling_test
